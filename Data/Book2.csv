@@ -1,0 +1,6 @@
+total_bill,tip,sex,smoker,day,time,size
+10,1.01,female,Yes,Sunday,17:00,
+15,2,male,no,Saturday,18:00,
+14,5,male,yes,Friday,22:00,
+20,4,female,yes,Tuesday,21:00,
+17,5,female,no,Thursday,18:00,
